@@ -20,7 +20,7 @@ githubUsername: 'shaharyar-shamshi'
 <br>
 <a href="https://www.linkedin.com/in/shaharyarshamshi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:shaharyarshamshi@gmail.com?subject=Hola%20Shaharyar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://shaharyarshamshi.xyz/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https://shaharyarshamshi.xyz/"></a>
+<a href="http://shaharyarshamshi.xyz/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=http://shaharyarshamshi.xyz/"></a>
 </p>
 
 <br>
