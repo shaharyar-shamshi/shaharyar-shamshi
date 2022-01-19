@@ -30,7 +30,8 @@ githubUsername: 'shaharyar-shamshi'
 ### I am a software Engineer at The solar labs
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2020 Acheivement: Just survived
-- 🥅 2021 Goals: looking to contribute more in open source
+- 🥅 2021 Goals: looking to contribute more in open source (Acheived 😉)
+-  🥅 2022 Something big coming in 2022
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
