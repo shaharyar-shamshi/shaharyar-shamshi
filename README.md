@@ -34,7 +34,7 @@ githubUsername: 'shaharyar-shamshi'
 ### I am a software Engineer
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2020 Achievement: Just survived
-- 🥅 2021 Goals: looking to contribute more in open source (Acheived 😉)
+- 🥅 2021 Goals: looking to contribute more in open source (Achieved 😉)
 -  🥅 2022 Something big coming in 2022
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
