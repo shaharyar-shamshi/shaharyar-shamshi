@@ -15,9 +15,6 @@ githubUsername: 'shaharyar-shamshi'
   <h1 align="center"><b>Hello there, I'm shaharyar 👋</b></h1>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/shaharyar-shamshi" />
-</p>
 
 <p align="center">
 <br>
